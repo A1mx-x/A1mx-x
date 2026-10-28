@@ -3,7 +3,7 @@
 <img width="800" alt="image" src=https://64.media.tumblr.com/d27c0f2c5142a45f6eab8498a54dac3c/9c160378c2f11e7c-bb/s1280x1920/1fad007254c0b1366103e8ac580a266bd3067618.gifv />
 
  <p align="center">
-  ${\textsf{\color{#56992f} 𝕀'𝕄 𝔸 𝕊𝕋𝔸ℝ
+ ${\textsf{\color{#56992f}  𝕀'𝕄 𝔸 𝕊𝕋𝔸ℝ
   }}$
 
 <p align="center">

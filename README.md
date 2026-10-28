@@ -2,6 +2,10 @@
 <p align="center">
 <img width="800" alt="image" src=https://64.media.tumblr.com/d27c0f2c5142a45f6eab8498a54dac3c/9c160378c2f11e7c-bb/s1280x1920/1fad007254c0b1366103e8ac580a266bd3067618.gifv />
 
+ <p align="center">
+  ${\textsf{\color{#56992f} 𝕀'𝕄 𝔸 𝕊𝕋𝔸ℝ
+  }}$
+
 <p align="center">
 <img width="750" alt="image" src="https://64.media.tumblr.com/175a6b2c9d60d39b581cf035532bea1c/1ea8fc93dc82b2a9-19/s1280x1920/d6d430f78c108eae171e87c0f02976e82b4e9c23.pnj"/>
 
